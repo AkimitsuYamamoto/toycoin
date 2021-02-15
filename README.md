@@ -1,13 +1,12 @@
-What is ToyCoin?
+What is toycoin?
 ----------------
-http://toyco.in
 
-ToyCoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. ToyCoin (or more commonly toycoin) uses peer-to-peer 
+toycoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. toycoin uses peer-to-peer 
 technology to operate without a central authority or third party clearing-house.
 
-Much like other popular Cryptocurrencies, ToyCoin offers a similar set of features.
-Where ToyCoin differs is in the implementation of Colin Percival's Scrypt algorithm
+Much like other popular Cryptocurrencies, toycoin offers a similar set of features.
+Where toycoin differs is in the implementation of Colin Percival's Scrypt algorithm
 as opposed to the more common SHA-256 novel hash algorithm. 
 
 For more information, as well as an immediately useable, binary version of
