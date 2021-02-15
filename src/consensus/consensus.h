@@ -13,7 +13,7 @@
 /** The maximum allowed size for a serialized block, in bytes (only for buffer size limits) */
 static const unsigned int MAX_BLOCK_SERIALIZED_SIZE = 4000000;
 /** The maximum allowed weight for a block, see BIP 141 (network rule) */
-static const unsigned int MAX_BLOCK_WEIGHT = 16000000; // 4M
+static const unsigned int MAX_BLOCK_WEIGHT = 16000000; // 3.814697 Megabyte Theoretical Maximum Block Size On Disk
 /** The maximum allowed number of signature check operations in a block (network rule) */
 static const int64_t MAX_BLOCK_SIGOPS_COST = 80000;
 /** Coinbase transaction outputs can only be spent after this number of new blocks (network rule) */
